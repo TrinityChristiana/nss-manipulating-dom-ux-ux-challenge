@@ -11,4 +11,6 @@ Preview Assignment: https://trinity-manipulating-dom.netlify.com/
 
 This assignment uses JavaScript to manipulate html elements by adding classes with querySelector().
 
-The challange instruction was to find a blog online and try to make my webpage look like that blog.
+The challange instruction was to find a blog online and try to make my webpage look like that blog. 
+
+This is the blog I tried to copy: https://blog.hubspot.com/marketing/beginner-blogger-mistakes;
